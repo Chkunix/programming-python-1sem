@@ -1,0 +1,17 @@
+Expenses report for Yaroslav Korolchuk (IT-31)
+Period: 2026-11-03 .. 2026-11-09
+Records: 13
+
+category     count     total   share  chart
+----------------------------------------------------
+food             6    645.50   58.4%  ############
+internet         1    199.00   18.0%  ####
+coffee           2    115.00   10.4%  ##
+stationery       1     85.00    7.7%  ##
+transport        3     60.00    5.4%  #
+----------------------------------------------------
+total           13   1104.50  100.0%
+
+Top day: 2026-11-07 (254.00)
+Most expensive: internet 199.00 (home internet monthly)
+Average per day: 157.79

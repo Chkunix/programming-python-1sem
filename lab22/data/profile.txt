@@ -1,0 +1,5 @@
+name: Yaroslav
+surname: Korolchuk
+group: IT-31
+year: 2006
+language: Python
